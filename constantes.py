@@ -10,6 +10,7 @@ PRETO = (20, 20, 20)
 BRANCO = (255, 255, 255)
 VERDE_PARQUE = (100, 200, 100)
 CEU_AZUL = (135, 206, 235)
+AMARELO = (255, 215, 0)
 
 # Configurações do Parque
 LARGURA_MUNDO = 1600
